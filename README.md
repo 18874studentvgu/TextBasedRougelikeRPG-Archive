@@ -1,4 +1,6 @@
-> Note: This is an archive of our project we did for one of the module in our university. It is not really suitable to be anything other than a proof of concept; nor does it represents the current coding practices of my collaborators and I. 
+> Note: This is another archive of our project we did for one of the module in our university. It is not really suitable to be anything other than a proof of concept; nor does it represents the current coding practices of my collaborators and I. 
+
+We attempted to create a text-based Rogue-like games, where a player continuously traverse down a dungeon, hitting enemies & looting chest. Due to time constraints as well as our inexperienced, the project never fully came to fruition. Only a CLI demo is ever playable.
 
 > bellow is the original README.txt
 
