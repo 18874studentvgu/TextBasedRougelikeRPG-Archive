@@ -1,0 +1,16 @@
+
+ TODO
+ - [❌]Add someway to check if a room belongs to a dungeon?
+ - [Temp pause]Update documentaions
+ - Implement:
+  * [DONE]Infuse Narration with every action the character makes
+  * [DONE] refactor code: put handling thingies for NPC and Player inside Equipment.onEquipBy().
+  * [DONE by chuong]NPC do action method
+  *  [done]inventory + managements (later...?)
+  * Save/Load
+  * [done? not quite]Core methods (start, end, get input, announce,select)
+  * gete player name from UI + start game or load game
+  * Core/UI/Database interface
+  * [done?]Implement multithearding
+  * [done?]random room generation
+ - [inprog]Working test demo
